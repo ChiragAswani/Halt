@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Halt/LevelTableViewCell.swift"
+            timestampString = "525136520.851448"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "LevelTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Halt.LevelTableViewCell.__deallocating_deinit"
+                  moduleName = "Halt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ChiragA/Documents/iPhone%20Applications/Halt/Halt/LevelTableViewCell.swift"
+                  timestampString = "525135973.694816"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Halt.LevelTableViewCell.init (style : __C.UITableViewCellStyle, reuseIdentifier : Swift.Optional&lt;Swift.String&gt;) -&gt; Halt.LevelTableViewCell"
+                  moduleName = "Halt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ChiragA/Documents/iPhone%20Applications/Halt/Halt/LevelTableViewCell.swift"
+                  timestampString = "525135973.712915"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Halt.LevelTableViewCell.__allocating_init (style : __C.UITableViewCellStyle, reuseIdentifier : Swift.Optional&lt;Swift.String&gt;) -&gt; Halt.LevelTableViewCell"
+                  moduleName = "Halt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ChiragA/Documents/iPhone%20Applications/Halt/Halt/LevelTableViewCell.swift"
+                  timestampString = "525135973.714956"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Halt.LevelTableViewCell.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Halt.LevelTableViewCell&gt;"
+                  moduleName = "Halt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ChiragA/Documents/iPhone%20Applications/Halt/Halt/LevelTableViewCell.swift"
+                  timestampString = "525135973.716375"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Halt.LevelTableViewCell.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Halt.LevelTableViewCell&gt;"
+                  moduleName = "Halt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ChiragA/Documents/iPhone%20Applications/Halt/Halt/LevelTableViewCell.swift"
+                  timestampString = "525135973.717826"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Halt/Levels.swift"
+            timestampString = "525571812.536156"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "Levels"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Halt.Levels.levels.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Halt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ChiragA/Documents/iPhone%20Applications/Halt/Halt/Levels.swift"
+                  timestampString = "525572174.16662"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Halt.Levels.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Halt.Levels"
+                  moduleName = "Halt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ChiragA/Documents/iPhone%20Applications/Halt/Halt/Levels.swift"
+                  timestampString = "525572174.168286"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Halt.Levels.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Halt.Levels&gt;"
+                  moduleName = "Halt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ChiragA/Documents/iPhone%20Applications/Halt/Halt/Levels.swift"
+                  timestampString = "525572174.170305"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Halt/LevelTableViewCell.swift"
+            timestampString = "525549979.276049"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "test(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
